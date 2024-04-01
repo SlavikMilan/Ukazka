@@ -1,0 +1,1 @@
+Tento repositář slouží pouze pro demonstraci GitHub Pages v Bakalářské práci
